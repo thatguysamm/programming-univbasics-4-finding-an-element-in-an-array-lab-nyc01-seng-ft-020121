@@ -1,3 +1,3 @@
 def find_element_index(array, value_to_find)
-  # Add your solution here
+  value_to_find.index(array, x)
 end
